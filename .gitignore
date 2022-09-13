@@ -1,0 +1,9 @@
+# no Log file
+*.log
+
+# no db file
+*.db
+
+# ignor directory
+target/
+bin/
